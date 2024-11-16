@@ -1,10 +1,7 @@
-# A-pport! 
-https://blog.cambridgespark.com/collecting-web-data-without-an-api-272a09e4fab7
+# Apport! 
+App to batch scrape running results from [uitslagen.nl](https://www.uitslagen.nl).
 
-## Installation and use
-
-### Python scripts
-
+Developed to run as Google Collab notebook.
 ## License
 Copyright (c) 2024 [GJ van der Gun](https://github.com/GJvdG)
 
